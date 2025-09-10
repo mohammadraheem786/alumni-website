@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-white text-gray-900 antialiased;
+  font-family: 'Inter', 'Arial', sans-serif;
+  scroll-behavior: smooth; /* smooth scroll for CTA button */
+}
