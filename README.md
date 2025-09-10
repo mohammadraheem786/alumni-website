@@ -1,12 +1,55 @@
-# React + Vite
+Alumni Maker Pass
+A modern, responsive React webpage showcasing the Alumni Membership program of T-Works.
+Users can explore membership plans, pricing options, and join the alumni community with ease.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Features
+Responsive Design: Works seamlessly on mobile, tablet, and desktop devices.
+Hero Section: Attractive banner with alumni group image and label.
+Membership Pricing Section: Display monthly, quarterly, and annual plans with discounts.
+Call-to-Action Buttons: Encourages users to join or explore further.
+Built with Modern Tech: React, Tailwind CSS for styling, and optimized for performance.
+💻 Technologies Used
+React – JavaScript library for building UI components.
+Tailwind CSS – Utility-first CSS framework for responsive design.
+JavaScript/JSX – Logic and component creation.
+HTML5 & CSS3 – Basic structure and styling.
+⚡ Installation
+Clone the repository:
+git clone https://github.com/mohammadraheem786/alumni-website.git
+cd alumni-website
+Install dependencies:
 
-Currently, two official plugins are available:
+bash
+Copy code
+npm install
+Start the development server:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+bash
+Copy code
+npm run dev
+The app should now be running at http://localhost:5173.
 
-## Expanding the ESLint configuration
+📦 Build for Production
+bash
+Copy code
+npm run build
+This will generate an optimized production build in the build/ folder.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+✨ Contributing
+Fork the repository.
+
+Create a new branch: git checkout -b feature/YourFeature
+
+Make your changes and commit: git commit -m "Add some feature"
+
+Push to the branch: git push origin feature/YourFeature
+
+Create a Pull Request.
+
+📄 License
+This project is MIT licensed.
+
+🙏 Acknowledgements
+React
+
+Tailwind CSS
