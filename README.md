@@ -1,55 +1,55 @@
 Alumni Maker Pass
-A modern, responsive React webpage showcasing the Alumni Membership program of T-Works.
-Users can explore membership plans, pricing options, and join the alumni community with ease.
-
+A modern, responsive React webpage showcasing the T-Works Alumni Membership program. Explore membership plans, pricing, and join the alumni community effortlessly.
 🚀 Features
-Responsive Design: Works seamlessly on mobile, tablet, and desktop devices.
-Hero Section: Attractive banner with alumni group image and label.
-Membership Pricing Section: Display monthly, quarterly, and annual plans with discounts.
-Call-to-Action Buttons: Encourages users to join or explore further.
-Built with Modern Tech: React, Tailwind CSS for styling, and optimized for performance.
-💻 Technologies Used
-React – JavaScript library for building UI components.
-Tailwind CSS – Utility-first CSS framework for responsive design.
-JavaScript/JSX – Logic and component creation.
-HTML5 & CSS3 – Basic structure and styling.
+
+Responsive Design: Seamlessly adapts to mobile, tablet, and desktop.
+Hero Section: Engaging banner featuring an alumni group image and tagline.
+Membership Pricing: Displays monthly, quarterly, and annual plans with discount details.
+Call-to-Action Buttons: Prompts users to join or learn more.
+Modern Tech Stack: Built with React and Tailwind CSS for performance and scalability.
+
+💻 Technologies
+
+React: JavaScript library for dynamic UI components.
+Tailwind CSS: Utility-first CSS framework for responsive styling.
+JavaScript/JSX: Handles logic and component structure.
+HTML5 & CSS3: Core structure and styling.
+
 ⚡ Installation
-Clone the repository:
-git clone https://github.com/mohammadraheem786/alumni-website.git
+
+Clone the repository:git clone https://github.com/mohammadraheem786/alumni-website.git
 cd alumni-website
-Install dependencies:
 
-bash
-Copy code
-npm install
-Start the development server:
 
-bash
-Copy code
-npm run dev
-The app should now be running at http://localhost:5173.
+Install dependencies:npm install
 
-📦 Build for Production
-bash
-Copy code
+
+Start the development server:npm run dev
+
+The app will be available at http://localhost:5173.
+
+📦 Production Build
+Generate an optimized build:
 npm run build
-This will generate an optimized production build in the build/ folder.
 
+Output will be in the build/ folder.
 ✨ Contributing
+
 Fork the repository.
+Create a feature branch:git checkout -b feature/YourFeature
 
-Create a new branch: git checkout -b feature/YourFeature
 
-Make your changes and commit: git commit -m "Add some feature"
+Commit changes:git commit -m "Add YourFeature"
 
-Push to the branch: git push origin feature/YourFeature
 
-Create a Pull Request.
+Push to the branch:git push origin feature/YourFeature
+
+
+Submit a Pull Request.
 
 📄 License
-This project is MIT licensed.
-
+MIT License
 🙏 Acknowledgements
-React
 
+React
 Tailwind CSS
